@@ -7,6 +7,6 @@
 * You can contact me on discord : <b>johndev0</b>
 * Fun fact : Death is not terrible
 # 🦠 Most used Language
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dark"/>
 # 🦠 Github Rate
 <img src="https://github-readme-stats.vercel.app/api?username=Younesdev12&show_icons=true&theme=dark"/>
