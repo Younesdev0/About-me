@@ -1,7 +1,7 @@
 # Who am I ? :
 <b>Best dev of all time</b>
 ### Hello world 👋
-* My name is <b>Younes</b>
+* My name is <b>John aka Vlad</b>
 * I’m a <b>discord bot developer</b>
 * I’m looking for help with my mental health
 * You can contact me on discord : <b>johndev0</b>
